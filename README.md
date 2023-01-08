@@ -1,2 +1,6 @@
 # Petroleum_Experts
-Scripts for process automation in software
+## Python for solving workflow automation tasks in specialized IPM software: 
+- Mbal;
+- PROSPER;
+- GAP;
+- Resolve.
